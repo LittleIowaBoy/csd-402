@@ -1,4 +1,4 @@
-// cschumacher_07192026_mod6_csd402
+// cschumacher_07192026_mod6_2_csd402
 // https://github.com/LittleIowaBoy/csd-402/tree/main
 
 public class Fan {
